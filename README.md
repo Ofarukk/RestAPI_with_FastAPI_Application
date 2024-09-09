@@ -5,6 +5,7 @@ This is a **FastAPI** application for managing inventory items (name and price).
 ### Project Structure
 
 RestAPIAPPVersion1/
+
 ├── main.py  
 ├── requirements.txt  
 ├── .gitignore  
