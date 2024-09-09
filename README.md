@@ -4,24 +4,22 @@ This is a **FastAPI** application for managing inventory items (name and price).
 
 ### Project Structure
 
-```
 RestAPIAPPVersion1/
-├── main.py                   # Entry point
-├── requirements.txt           # Project dependencies
-├── .gitignore                 # Ignored files
-├── README.md                  # Documentation
-├── app/                       # FastAPI routes (UI Layer)
-├── business_logic/            # Business logic
-├── data_access/               # Data storage logic
-├── models/                    # Pydantic models (Schema)
-├── middleware/                # Middleware
-├── utils/                     # Utility functions (logging)
-```
+├── main.py  
+├── requirements.txt  
+├── .gitignore  
+├── README.md  
+├── app/  
+├── business_logic/  
+├── data_access/  
+├── models/  
+├── middleware/  
+├── utils/
 
 ### Installation & Setup
 
 1. **Clone the repository**:
-   git clone https://github.com/yourusername/inventory_app.git
+   git clone https://github.com/Ofarukk/RestAPI_with_FastAPI_Application.git
    cd RestAPIAPPVersion1
 2. **Install dependencies**:
    pip install -r requirements.txt
